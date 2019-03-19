@@ -2,8 +2,6 @@
 .DS_Store
 npm-debug.log*
 node_modules
-amd
-lib
 tmp-bower-repo
 .idea
 package-lock.json
